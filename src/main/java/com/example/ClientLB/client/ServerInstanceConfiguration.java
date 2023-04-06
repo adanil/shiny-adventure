@@ -1,4 +1,4 @@
-package com.example.ClientLB;
+package com.example.ClientLB.client;
 
 import org.springframework.cloud.loadbalancer.core.ServiceInstanceListSupplier;
 import org.springframework.context.annotation.Bean;

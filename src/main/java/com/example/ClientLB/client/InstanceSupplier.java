@@ -1,4 +1,4 @@
-package com.example.ClientLB;
+package com.example.ClientLB.client;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.cloud.client.DefaultServiceInstance;

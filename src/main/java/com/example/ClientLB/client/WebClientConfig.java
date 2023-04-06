@@ -1,4 +1,4 @@
-package com.example.ClientLB;
+package com.example.ClientLB.client;
 
 import org.springframework.cloud.client.loadbalancer.LoadBalanced;
 import org.springframework.cloud.loadbalancer.annotation.LoadBalancerClient;

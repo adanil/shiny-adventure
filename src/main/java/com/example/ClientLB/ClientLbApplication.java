@@ -1,6 +1,7 @@
 package com.example.ClientLB;
 
-import org.springframework.beans.factory.annotation.Value;
+import com.example.ClientLB.services.ExchangeService;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.WebApplicationType;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.builder.SpringApplicationBuilder;
@@ -16,18 +17,12 @@ public class ClientLbApplication {
 				.web(WebApplicationType.NONE)
 				.run(args);
 
-		WebClient loadBalancedClient = ctx.getBean(WebClient.Builder.class).build();
+		ExchangeService exchangeService = new ExchangeService(ctx);
 
 		while (true) {
-			requestExchange(loadBalancedClient,"RUB","USD",3999);
+			exchangeService.requestExchange("RUB","USD",3999);
 			Thread.sleep(5000);
 		}
-	}
-
-	private static void requestExchange(WebClient loadBalancedClient, String fromCurrency, String toCurrency,int value) {
-		String response = loadBalancedClient.get().uri("http://producers/convert/from/" + fromCurrency + "/to/" + toCurrency + "?value=" + value)
-				.retrieve().toEntity(String.class).block().getBody();
-		System.out.println(response);
 	}
 
 }
