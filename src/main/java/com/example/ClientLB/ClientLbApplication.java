@@ -19,11 +19,15 @@ public class ClientLbApplication {
 		WebClient loadBalancedClient = ctx.getBean(WebClient.Builder.class).build();
 
 		while (true) {
-			String response = loadBalancedClient.get().uri("http://producers/convert/from/RUB/to/USD?value=5433")
-					.retrieve().toEntity(String.class).block().getBody();
-			System.out.println(response);
+			requestExchange(loadBalancedClient,"RUB","USD",3999);
 			Thread.sleep(5000);
 		}
+	}
+
+	private static void requestExchange(WebClient loadBalancedClient, String fromCurrency, String toCurrency,int value) {
+		String response = loadBalancedClient.get().uri("http://producers/convert/from/" + fromCurrency + "/to/" + toCurrency + "?value=" + value)
+				.retrieve().toEntity(String.class).block().getBody();
+		System.out.println(response);
 	}
 
 }
