@@ -12,8 +12,13 @@ import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
 import org.springframework.web.reactive.function.client.WebClient;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
 @Service
 public class ExchangeService {
+
+    private static final Logger log = LoggerFactory.getLogger(ExchangeService.class);
 
     private LoadBalancerClient loadBalancer;
 
@@ -35,10 +40,12 @@ public class ExchangeService {
 
 
     public void requestExchange(String fromCurrency, String toCurrency, int value) {
+        log.info("client try to send exchange request: " + fromCurrency + " to " + toCurrency + " value = " + value);
         String serviceURL = getServiceUrl();
         String response = circuitBreaker.run(
                 () -> this.restTemplate.getForObject(serviceURL + "/convert/from/" + fromCurrency + "/to/" + toCurrency + "?value=" + value,String.class),
                 throwable -> "Exchange server is currently unavailable");
-        System.out.println(response);
+        log.info("response from server: " + response);
+//        System.out.println(response);
     }
 }
