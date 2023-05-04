@@ -565,3 +565,169 @@
 04-05-2023 20:58:56.356 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-3","USD":51.987}
 04-05-2023 20:59:01.357 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
 04-05-2023 20:59:01.368 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-2","USD":51.987}
+04-05-2023 20:59:06.368 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 20:59:06.380 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-1","USD":51.987}
+04-05-2023 20:59:11.381 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 20:59:11.399 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-3","USD":51.987}
+04-05-2023 20:59:16.400 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 20:59:16.410 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-2","USD":51.987}
+04-05-2023 20:59:21.410 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 20:59:21.421 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-1","USD":51.987}
+04-05-2023 20:59:26.422 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 20:59:26.434 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-3","USD":51.987}
+04-05-2023 20:59:31.435 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 20:59:31.445 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-2","USD":51.987}
+04-05-2023 20:59:36.445 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 20:59:36.455 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-1","USD":51.987}
+04-05-2023 20:59:41.456 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 20:59:41.467 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-3","USD":51.987}
+04-05-2023 20:59:46.468 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 20:59:46.476 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-2","USD":51.987}
+04-05-2023 20:59:51.477 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 20:59:51.483 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-1","USD":51.987}
+04-05-2023 20:59:56.484 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 20:59:56.488 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-3","USD":51.987}
+04-05-2023 21:00:01.488 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:00:01.494 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-2","USD":51.987}
+04-05-2023 21:00:06.495 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:00:06.506 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-1","USD":51.987}
+04-05-2023 21:00:11.507 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:00:11.510 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-3","USD":51.987}
+04-05-2023 21:00:16.511 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:00:16.515 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-2","USD":51.987}
+04-05-2023 21:00:21.515 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:00:21.523 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-1","USD":51.987}
+04-05-2023 21:00:26.523 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:00:26.535 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-3","USD":51.987}
+04-05-2023 21:00:31.536 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:00:31.546 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-2","USD":51.987}
+04-05-2023 21:00:36.546 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:00:36.558 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-1","USD":51.987}
+04-05-2023 21:00:41.559 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:00:41.569 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-3","USD":51.987}
+04-05-2023 21:00:46.569 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:00:46.573 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-2","USD":51.987}
+04-05-2023 21:00:51.573 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:00:51.584 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-1","USD":51.987}
+04-05-2023 21:00:56.584 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:00:56.601 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-3","USD":51.987}
+04-05-2023 21:01:01.602 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:01:01.612 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-2","USD":51.987}
+04-05-2023 21:01:06.613 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:01:06.622 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-1","USD":51.987}
+04-05-2023 21:01:11.622 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:01:11.636 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-3","USD":51.987}
+04-05-2023 21:01:16.636 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:01:16.645 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-2","USD":51.987}
+04-05-2023 21:01:21.646 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:01:21.657 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-1","USD":51.987}
+04-05-2023 21:01:26.657 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:01:26.664 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-3","USD":51.987}
+04-05-2023 21:01:31.665 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:01:31.681 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-2","USD":51.987}
+04-05-2023 21:01:36.682 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:01:36.692 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-1","USD":51.987}
+04-05-2023 21:01:41.693 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:01:41.703 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-3","USD":51.987}
+04-05-2023 21:01:46.704 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:01:46.712 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-2","USD":51.987}
+04-05-2023 21:01:51.713 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:01:51.717 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-1","USD":51.987}
+04-05-2023 21:01:56.717 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:01:56.727 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-3","USD":51.987}
+04-05-2023 21:02:01.728 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:02:01.737 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-2","USD":51.987}
+04-05-2023 21:02:06.737 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:02:06.746 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-1","USD":51.987}
+04-05-2023 21:02:11.746 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:02:11.755 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-3","USD":51.987}
+04-05-2023 21:02:16.755 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:02:16.758 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-2","USD":51.987}
+04-05-2023 21:02:21.759 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:02:21.762 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-1","USD":51.987}
+04-05-2023 21:02:26.762 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:02:26.766 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-3","USD":51.987}
+04-05-2023 21:02:31.766 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:02:31.770 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-2","USD":51.987}
+04-05-2023 21:02:36.770 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:02:36.780 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-1","USD":51.987}
+04-05-2023 21:02:41.780 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:02:41.786 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-3","USD":51.987}
+04-05-2023 21:02:46.786 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:02:46.795 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-2","USD":51.987}
+04-05-2023 21:02:51.795 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:02:51.799 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-1","USD":51.987}
+04-05-2023 21:02:56.799 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:02:56.808 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-3","USD":51.987}
+04-05-2023 21:03:01.809 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:03:01.818 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-2","USD":51.987}
+04-05-2023 21:03:06.819 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:03:06.829 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-1","USD":51.987}
+04-05-2023 21:03:11.829 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:03:11.833 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-3","USD":51.987}
+04-05-2023 21:03:16.833 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:03:16.841 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-2","USD":51.987}
+04-05-2023 21:03:21.842 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:03:21.845 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-1","USD":51.987}
+04-05-2023 21:03:26.846 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:03:26.855 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-3","USD":51.987}
+04-05-2023 21:03:31.856 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:03:31.865 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-2","USD":51.987}
+04-05-2023 21:03:36.865 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:03:36.873 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-1","USD":51.987}
+04-05-2023 21:03:41.874 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:03:41.882 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-3","USD":51.987}
+04-05-2023 21:03:46.883 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:03:46.890 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-2","USD":51.987}
+04-05-2023 21:03:51.891 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:03:51.906 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-1","USD":51.987}
+04-05-2023 21:03:56.906 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:03:56.915 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-3","USD":51.987}
+04-05-2023 21:04:01.915 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:04:01.921 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-2","USD":51.987}
+04-05-2023 21:04:06.921 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:04:06.930 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-1","USD":51.987}
+04-05-2023 21:04:11.930 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:04:11.939 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-3","USD":51.987}
+04-05-2023 21:04:16.939 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:04:16.942 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-2","USD":51.987}
+04-05-2023 21:04:21.943 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:04:21.951 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-1","USD":51.987}
+04-05-2023 21:04:26.952 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:04:26.967 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-3","USD":51.987}
+04-05-2023 21:04:31.967 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:04:31.976 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-2","USD":51.987}
+04-05-2023 21:04:36.976 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:04:36.984 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-1","USD":51.987}
+04-05-2023 21:04:41.985 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:04:41.994 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-3","USD":51.987}
+04-05-2023 21:04:46.994 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:04:46.998 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-2","USD":51.987}
+04-05-2023 21:04:51.999 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:04:52.007 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-1","USD":51.987}
+04-05-2023 21:04:57.007 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:04:57.011 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-3","USD":51.987}
+04-05-2023 21:05:02.011 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:05:02.026 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-2","USD":51.987}
+04-05-2023 21:05:07.027 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:05:07.036 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-1","USD":51.987}
+04-05-2023 21:05:12.036 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:05:12.046 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-3","USD":51.987}
+04-05-2023 21:05:17.046 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:05:17.055 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-2","USD":51.987}
+04-05-2023 21:05:22.055 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:05:22.064 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-1","USD":51.987}
+04-05-2023 21:05:27.065 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:05:27.073 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-3","USD":51.987}
+04-05-2023 21:05:32.074 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:05:32.082 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-2","USD":51.987}
+04-05-2023 21:05:37.083 [main] INFO  c.e.C.services.ExchangeService.requestExchange - client try to send exchange request: RUB to USD value = 3999
+04-05-2023 21:05:37.096 [main] INFO  c.e.C.services.ExchangeService.requestExchange - response from server: {"instanceId":"Producer-1","USD":51.987}
+04-05-2023 21:05:41.549 [Curator-Framework-0] INFO  o.a.c.f.imps.CuratorFrameworkImpl.backgroundOperationsLoop - backgroundOperationsLoop exiting
+04-05-2023 21:05:41.555 [main-SendThread(localhost:2181)] WARN  org.apache.zookeeper.ClientCnxn.run - An exception was thrown while closing send thread for session 0x10000de1b610039.
+org.apache.zookeeper.ClientCnxn$EndOfStreamException: Unable to read additional data from server sessionid 0x10000de1b610039, likely server has closed socket
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doIO(ClientCnxnSocketNIO.java:75)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:348)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1262)
+04-05-2023 21:05:41.657 [main-EventThread] INFO  org.apache.zookeeper.ClientCnxn.run - EventThread shut down for session: 0x10000de1b610039
+04-05-2023 21:05:41.657 [SpringApplicationShutdownHook] INFO  org.apache.zookeeper.ZooKeeper.close - Session: 0x10000de1b610039 closed

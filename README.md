@@ -15,3 +15,10 @@ Now you can see dashboards on http://localhost:9090
 ![Producer dashboard](images/producers.png?raw=true "Producer JVM dashboard")
 **ZooKeeper dashboard**
 ![ZooKeeper dashboard](images/zookeeper.png?raw=true "ZooKeeper JVM dashboard")
+
+
+## How to run with ELK Stack ## 
+1. Run docker compose using command **`docker-compose up`**
+Now you can see logs in kibana http://localhost:5601
+**Kibana page**
+![Kibana page](images/kibana.png?raw=true "Kibana logs page")

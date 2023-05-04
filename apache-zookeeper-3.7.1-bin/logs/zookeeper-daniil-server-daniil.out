@@ -122,3 +122,4 @@ EndOfStreamException: Unable to read additional data from client, it probably cl
 2023-05-04 20:51:14,536 [myid:] - INFO  [ContainerManagerTask:ContainerManager@135] - Attempting to delete candidate container: /services/Producer
 2023-05-04 20:54:14,536 [myid:] - INFO  [ContainerManagerTask:ContainerManager@135] - Attempting to delete candidate container: /services/Producer
 2023-05-04 20:55:14,536 [myid:] - INFO  [ContainerManagerTask:ContainerManager@135] - Attempting to delete candidate container: /services
+2023-05-04 21:06:14,536 [myid:] - INFO  [ContainerManagerTask:ContainerManager@135] - Attempting to delete candidate container: /services/Producer
